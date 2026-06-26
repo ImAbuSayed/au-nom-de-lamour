@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/au-nom-de-lamour/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Au Nom De L'amour](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/au-nom-de-lamour/) |
+| **Get License** | [Get License For Au Nom De L'amour](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/au-nom-de-lamour/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Dans la chaleur du club, ton regard me fascine
+> Sous les stroboscopes, t'es ma seule héroïne
+> Viens te coller à moi, je te veux peau contre peau
+> T'es mon frisson chic, tu es tout ce qu'il me faut
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
