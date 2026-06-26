@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/au-nom-de-lamour/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Au Nom De L'amour](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/au-nom-de-lamour/) |
+| **Get License** | [Official Music Licensing for Au Nom De L'amour](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/au-nom-de-lamour/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `d7cb5fe7bba9a2669a8c325d394a4d9981f8c88d26966d4c81722c01b99d63e8` |
 | **Timestamp** | June 26, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
